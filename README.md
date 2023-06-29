@@ -17,5 +17,5 @@ donde encontramos el mejor modelo llamado gbm_lr0.25_depth5_est150_lossdeviance_
 [Aquí adjuntamos el link] (https://api.wandb.ai/links/nico_dpc/gg4t9928)
 
 
-![alt text](C:\Users\nico_\OneDrive\Documentos\GitHub\Clasificacion_de_Vinos\images\vino-tinto-botella-copa-vino-sobre-fondo-vinoso_219717-1894.avif)
+
 
