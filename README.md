@@ -14,3 +14,5 @@ Max Depht : 3
 n Stimators : 50
 Sub Sample : 1
 
+Aquí adjuntamos el link para ver el reporte : [https://api.wandb.ai/links/nico_dpc/gg4t9928]
+
