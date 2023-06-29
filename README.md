@@ -14,5 +14,5 @@ donde encontramos el mejor modelo llamado gbm_lr0.25_depth5_est150_lossdeviance_
    * n Stimators : 50
    * Sub Sample : 1
 
-[Aquí adjuntamos el link] (https://api.wandb.ai/links/nico_dpc/gg4t9928)
+[Aquí adjuntamos el link](https://api.wandb.ai/links/nico_dpc/gg4t9928)
 
